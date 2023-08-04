@@ -10,5 +10,18 @@
 
 ### Phencode selection mode 
 
+#### Step0:
 ![image](https://github.com/wangterry88/GenePipeline-windows/assets/49865575/c3b6e6fb-61ef-4b06-bce8-2280d2366146)
+
+#### Step1:
+![image](https://github.com/wangterry88/GenePipeline-windows/assets/49865575/3a0aee1a-d8e6-47ca-a02c-c54991396588)
+
+#### Step2:
+![image](https://github.com/wangterry88/GenePipeline-windows/assets/49865575/ca510c1a-becc-4fe1-8937-fbeaaefb1f52)
+
+#### Step3:
+![image](https://github.com/wangterry88/GenePipeline-windows/assets/49865575/33565af5-2211-44be-b924-866ac9e3cd35)
+
+#### Step4:
+![image](https://github.com/wangterry88/GenePipeline-windows/assets/49865575/80d9560c-a018-461c-8b0a-9e16ffc15e21)
 
