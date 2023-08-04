@@ -1,8 +1,8 @@
-#################################################### ##########################
+##############################################################################
 
                              GenePipeline_ver1.0
 
-#################################################### ##########################
+##############################################################################
 
 
 Version (ver1.0):
@@ -10,7 +10,7 @@ Version (ver1.0):
 Release date: 2023/07/14
 
 
-############################# 1. Basic instructions #################### ################
+############################# 1. Basic instructions ####################################
 
 
 - This software is the analysis process for calculating the gene chip in the affiliated hospital of China
@@ -39,7 +39,7 @@ Release date: 2023/07/14
 
      -Resolution: 1024*768
 
-############################# 2. Main functions #################### ################
+############################# 2. Main functions ####################################
 
 
 - 1. TPMI Chip Check: Calculate the number of gene chips corresponding to the patient list entered by the user.
@@ -51,7 +51,7 @@ Release date: 2023/07/14
 - 4. PGS Catalog : Execute and confirm the PGS Catalog risk gene model.
 
 
-############################# 3. Additional files #################### ################
+############################# 3. Additional files ####################################
 
 
 - 0. .\tools Folder: All analysis related software and files.
@@ -68,7 +68,7 @@ Release date: 2023/07/14
 
 - 6. \tools\PRSice_win64.exe : The executable file of PRSice-2 software.
 
-############################# 4. How to execute ##################### #############
+############################# 4. How to execute ##################################
 
 
 - Click the shortcut: GenePipeline_ver1.0 in the root directory to execute it.
