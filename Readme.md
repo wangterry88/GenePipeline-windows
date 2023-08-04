@@ -12,6 +12,7 @@ Version (ver1.0):
 
 Release date: 2023/07/14
 
+
 ############################# 1. Basic instructions ####################################
 
 
@@ -41,6 +42,8 @@ Release date: 2023/07/14
 
      -Resolution: 1024*768
 
+
+
 ############################# 2. Main functions ####################################
 
 
@@ -51,6 +54,7 @@ Release date: 2023/07/14
 - 3. GWAS + PRS : Execute the GWAS + PRS analysis process.
 
 - 4. PGS Catalog : Execute and confirm the PGS Catalog PRS model.
+
 
 
 ############################# 3. Additional files ####################################
