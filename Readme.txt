@@ -1,78 +1,77 @@
-##########################################################################
+#################################################### ##########################
 
-                            GenePipeline_ver1.0
+                             GenePipeline_ver1.0
 
-##########################################################################
-
-
-版本 (ver1.0):
-
-發布日期: 2023/07/14
+#################################################### ##########################
 
 
-############################ 1. 基本說明 #################################
+Version (ver1.0):
+
+Release date: 2023/07/14
 
 
-- 本軟體是計算中國附醫院內基因晶片之分析流程
-
-- 本軟體使用 R (ver4.1.1)與 Batch shell運作環境。
-
-- 本軟體分析使用以下軟體: 
-
-     A. plink (PLINK v1.90b7 64-bit (16 Jan 2023)) 
-
-     B. plink2 (PLINK v2.00a5 64-bit (21 Jun 2023)) 
-
-     C. PRSice-2 (PRSice-2 2021-09-20 (v2.3.5))
-
-- 最低系統需求:
-
-    -操作系統: Windows/7/8/10/11
-
-    -處理器: Intel Core i5-4460 / AMD FX-8320
-
-    -RAM: 8 GB
-
-    -硬碟空間: 10 GB
-
-    -網路: 寬頻網路連線
-
-    -解析度: 1024*768
-
-############################ 2. 主要功能 #################################
+############################# 1. Basic instructions #################### ################
 
 
-- 1. TPMI Chip Check : 計算使用者輸入之患者清單之基因晶片對應數量。
+- This software is the analysis process for calculating the gene chip in the affiliated hospital of China
 
-- 2. GWAS : 執行 GWAS 分析流程。
+- This software uses R (ver4.1.1) and Batch shell operating environment.
 
-- 3. GWAS + PRS : 執行 GWAS + PRS 分析流程。
+- This software analysis uses the following software:
 
-- 4. PGS Catalog : 執行確認 PGS Catalog 風險基因模型。
+      A. plink (PLINK v1.90b7 64-bit (16 Jan 2023))
 
+      B. plink2 (PLINK v2.00a5 64-bit (21 Jun 2023))
 
-############################ 3. 附加檔案 #################################
+      C. PRSice-2 (PRSice-2 2021-09-20 (v2.3.5))
 
+- Minimum system requirements:
 
-- 0. .\tools 資料夾: 所有分析相關軟體、文件。
+     -OS: Windows/7/8/10/11
 
-- 1. \tools\annotation_file\glist-hg38 : SNP對應至基因檔案(genome build 38)。
+     -Processor: Intel Core i5-4460 / AMD FX-8320
 
-- 2. \tools\zip\ : 運算軟體之來源執行檔(zip壓縮檔)。
+     - RAM: 8GB
 
-- 3. \tools\plink.exe : plink 軟體之可執行檔。
+     - Hard disk space: 10 GB
 
-- 4. \tools\plink2.exe : plink2 軟體之可執行檔。
+     -Internet: Broadband Internet connection
 
-- 5. \tools\PRSice.R : PRSice-2 軟體之R檔。
+     -Resolution: 1024*768
 
-- 6. \tools\PRSice_win64.exe : PRSice-2 軟體之可執行檔。
-
-###########################  4. 如何執行  ################################
-
-
-- 點擊根目錄中的: GenePipeline_ver1.0 捷徑即可執行。
+############################# 2. Main functions #################### ################
 
 
-##########################################################################
+- 1. TPMI Chip Check: Calculate the number of gene chips corresponding to the patient list entered by the user.
 
+- 2. GWAS : Execute the GWAS analysis process.
+
+- 3. GWAS + PRS : Execute the GWAS + PRS analysis process.
+
+- 4. PGS Catalog : Execute and confirm the PGS Catalog risk gene model.
+
+
+############################# 3. Additional files #################### ################
+
+
+- 0. .\tools Folder: All analysis related software and files.
+
+- 1. \tools\annotation_file\glist-hg38 : SNP mapping to gene file (genome build 38).
+
+- 2. \tools\zip\ : The source executable file (zip compressed file) of the computing software.
+
+- 3. \tools\plink.exe : The executable file of plink software.
+
+- 4. \tools\plink2.exe : The executable file of plink2 software.
+
+- 5. \tools\PRSice.R : R file of PRSice-2 software.
+
+- 6. \tools\PRSice_win64.exe : The executable file of PRSice-2 software.
+
+############################# 4. How to execute ##################### #############
+
+
+- Click the shortcut: GenePipeline_ver1.0 in the root directory to execute it.
+
+
+#################################################### ##########################
