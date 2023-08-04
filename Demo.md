@@ -29,7 +29,7 @@
 
 ![image](https://github.com/wangterry88/GenePipeline-windows/assets/49865575/a2acc67a-eace-4f8c-96e2-a6b9ee75b61b)
 
-+ ### [Step2] [Option1. TPMI Chip Check] 
+### [Step2] [Option1. TPMI Chip Check] 
 
 + #### Step1. Input Required information
 
@@ -43,8 +43,9 @@
 
 ![image](https://github.com/wangterry88/GenePipeline-windows/assets/49865575/68039798-3f1d-4a67-afbc-bbdbac258f10)
 
+#######################################################################################################################
 
-+ ### [Step2] [Option2. GWAS]
+### [Step2] [Option2. GWAS]
 
 + #### Step1. Input Required information
 
@@ -63,4 +64,39 @@
 ![image](https://github.com/wangterry88/GenePipeline-windows/assets/49865575/11d96ceb-01d5-49ab-a742-229ffe6cca55)
 ![image](https://github.com/wangterry88/GenePipeline-windows/assets/49865575/ff48455f-88c3-4744-955f-4b0ff557bfc7)
 ![image](https://github.com/wangterry88/GenePipeline-windows/assets/49865575/740f1766-c965-4415-87a1-3e2e2827d8d7)
+
+#########################################################################################################################
+
+### [Step2] [Option3. GWAS + PRS]
+
++ #### Step1. Input Required information
+
+![image](https://github.com/wangterry88/GenePipeline-windows/assets/49865575/6d71a1d7-b752-463a-a69d-1b0b249fd9e1)
+
++ #### Step2. Input matched information
+
+![image](https://github.com/wangterry88/GenePipeline-windows/assets/49865575/bb87162a-4243-4d72-9e8c-470ab95e9e76)
+
++ #### Step3. Input GWAS result information
+
+![image](https://github.com/wangterry88/GenePipeline-windows/assets/49865575/7562a929-4225-4e43-8fac-e75d22823dd9)
+
++ #### Step4. Get Results
+  
+![image](https://github.com/wangterry88/GenePipeline-windows/assets/49865575/11d96ceb-01d5-49ab-a742-229ffe6cca55)
+
++ #### Step5. Input PRS required information
+
+![image](https://github.com/wangterry88/GenePipeline-windows/assets/49865575/bb59d30b-7655-408e-9b88-c6d95ae3e895)
+
++ #### Step6. Get Results
+
++ A. PRSice-2 result: Bar plot
+![image](https://github.com/wangterry88/GenePipeline-windows/assets/49865575/0ca4a49f-c4df-4b8f-8d21-1095c7d41c83)
+
++ B. PRSice-2 result: Quantile Plots
+![image](https://github.com/wangterry88/GenePipeline-windows/assets/49865575/7af32f90-1593-4fb7-9670-94164248ca7a)
+
++ C. PRSice-2 result: High Resolution Plot
+![image](https://github.com/wangterry88/GenePipeline-windows/assets/49865575/95dd2c12-7b72-4b40-ab0d-e45a0278e502)
 
