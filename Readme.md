@@ -56,24 +56,24 @@ Release date: 2023/07/14
 ############################# 3. Additional files ####################################
 
 
-- 0. .\tools Folder: All analysis related software and files.
+- 0. `.\tools` Folder: All analysis related software and files.
 
-- 1. \tools\annotation_file\glist-hg38 : SNP mapping to gene file (genome build 38).
+- 1. `\tools\annotation_file\glist-hg38` : SNP mapping to gene file (genome build 38).
 
-- 2. \tools\zip\ : The source executable file (zip compressed file) of the computing software.
+- 2. `\tools\zip\` : The source executable file (zip compressed file) of the computing software.
 
-- 3. \tools\plink.exe : The executable file of plink software.
+- 3. `\tools\plink.exe` : The executable file of plink software.
 
-- 4. \tools\plink2.exe : The executable file of plink2 software.
+- 4. `\tools\plink2.exe` : The executable file of plink2 software.
 
-- 5. \tools\PRSice.R : R file of PRSice-2 software.
+- 5. `\tools\PRSice.R` : R file of PRSice-2 software.
 
-- 6. \tools\PRSice_win64.exe : The executable file of PRSice-2 software.
+- 6. `\tools\PRSice_win64.exe` : The executable file of PRSice-2 software.
 
 ############################# 4. How to execute ##################################
 
 
-- Click the shortcut: GenePipeline_ver1.0 in the root directory to execute it.
+- Click the shortcut: `GenePipeline_ver1.0` in the root directory to execute it.
 
 
 #################################################### ##########################
