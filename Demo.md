@@ -1,6 +1,6 @@
 # Demo of the program
 
-## [Step1]: Input data mode 
+## [Step1]: Select the Input data mode (User input mode / Phencode selection mode)
 
 ![image](https://github.com/wangterry88/GenePipeline-windows/assets/49865575/d0e7f61b-4b34-4339-9b06-43a2956ba7b3)
 
