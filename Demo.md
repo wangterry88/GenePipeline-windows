@@ -61,9 +61,9 @@
 
 + #### Step4. Get Results
 
-![image](https://github.com/wangterry88/GenePipeline-windows/assets/49865575/11d96ceb-01d5-49ab-a742-229ffe6cca55)
-![image](https://github.com/wangterry88/GenePipeline-windows/assets/49865575/ff48455f-88c3-4744-955f-4b0ff557bfc7)
-![image](https://github.com/wangterry88/GenePipeline-windows/assets/49865575/740f1766-c965-4415-87a1-3e2e2827d8d7)
++ ![image](https://github.com/wangterry88/GenePipeline-windows/assets/49865575/11d96ceb-01d5-49ab-a742-229ffe6cca55)
++ ![image](https://github.com/wangterry88/GenePipeline-windows/assets/49865575/ff48455f-88c3-4744-955f-4b0ff557bfc7)
++ ![image](https://github.com/wangterry88/GenePipeline-windows/assets/49865575/740f1766-c965-4415-87a1-3e2e2827d8d7)
 
 ##################################################################################################
 
@@ -92,13 +92,13 @@
 + #### Step6. Get Results
 
 + A. PRSice-2 result: Bar plot
-![image](https://github.com/wangterry88/GenePipeline-windows/assets/49865575/0ca4a49f-c4df-4b8f-8d21-1095c7d41c83)
++ ![image](https://github.com/wangterry88/GenePipeline-windows/assets/49865575/0ca4a49f-c4df-4b8f-8d21-1095c7d41c83)
 
 + B. PRSice-2 result: Quantile Plots
-![image](https://github.com/wangterry88/GenePipeline-windows/assets/49865575/7af32f90-1593-4fb7-9670-94164248ca7a)
++ ![image](https://github.com/wangterry88/GenePipeline-windows/assets/49865575/7af32f90-1593-4fb7-9670-94164248ca7a)
 
 + C. PRSice-2 result: High Resolution Plot
-![image](https://github.com/wangterry88/GenePipeline-windows/assets/49865575/95dd2c12-7b72-4b40-ab0d-e45a0278e502)
++ ![image](https://github.com/wangterry88/GenePipeline-windows/assets/49865575/95dd2c12-7b72-4b40-ab0d-e45a0278e502)
 
 ##################################################################################################
 
@@ -106,30 +106,30 @@
 
 + #### Step1. Input Required information
 
-![image](https://github.com/wangterry88/GenePipeline-windows/assets/49865575/d47ab68f-72f9-4a0d-a508-568cf2f4daa1)
++ ![image](https://github.com/wangterry88/GenePipeline-windows/assets/49865575/d47ab68f-72f9-4a0d-a508-568cf2f4daa1)
 
 + #### Step2. Get Results
 
 + A. AUC plot
-![image](https://github.com/wangterry88/GenePipeline-windows/assets/49865575/152aafe7-0339-44ce-8b99-801f6789d5f9)
++ ![image](https://github.com/wangterry88/GenePipeline-windows/assets/49865575/152aafe7-0339-44ce-8b99-801f6789d5f9)
 
 + B. Cumulative Risk plot
-![image](https://github.com/wangterry88/GenePipeline-windows/assets/49865575/f39c045e-6a8a-41ba-8b06-8126f35fb8c3)
++ ![image](https://github.com/wangterry88/GenePipeline-windows/assets/49865575/f39c045e-6a8a-41ba-8b06-8126f35fb8c3)
 
 + C. Prevalence plot
-![image](https://github.com/wangterry88/GenePipeline-windows/assets/49865575/71fcce25-3059-4a0a-954f-b7524062e2f9)
++ ![image](https://github.com/wangterry88/GenePipeline-windows/assets/49865575/71fcce25-3059-4a0a-954f-b7524062e2f9)
 
 + D. Distribution plot
-![image](https://github.com/wangterry88/GenePipeline-windows/assets/49865575/0d54bc77-9af9-4046-82fa-7080903a4ddc)
++ ![image](https://github.com/wangterry88/GenePipeline-windows/assets/49865575/0d54bc77-9af9-4046-82fa-7080903a4ddc)
 
 + E. OR Plot
-![image](https://github.com/wangterry88/GenePipeline-windows/assets/49865575/96d4bea6-d1ce-42b7-95a9-1e2662916197)
++ ![image](https://github.com/wangterry88/GenePipeline-windows/assets/49865575/96d4bea6-d1ce-42b7-95a9-1e2662916197)
 
 + F. Quantiles Plot
-![image](https://github.com/wangterry88/GenePipeline-windows/assets/49865575/bcb76afd-c3ca-4fa7-af30-c0fa6e3696a0)
++ ![image](https://github.com/wangterry88/GenePipeline-windows/assets/49865575/bcb76afd-c3ca-4fa7-af30-c0fa6e3696a0)
 
 + G. Table1
-![image](https://github.com/wangterry88/GenePipeline-windows/assets/49865575/20ec66aa-9568-412c-9acf-bcc539a8b648)
++ ![image](https://github.com/wangterry88/GenePipeline-windows/assets/49865575/20ec66aa-9568-412c-9acf-bcc539a8b648)
 
 + H. SNP information
-![image](https://github.com/wangterry88/GenePipeline-windows/assets/49865575/f201535a-1c91-4958-8af8-1d79a00e6429)
++ ![image](https://github.com/wangterry88/GenePipeline-windows/assets/49865575/f201535a-1c91-4958-8af8-1d79a00e6429)
