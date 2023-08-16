@@ -2,10 +2,8 @@
 
 ### Demo of this program: `Demo.md`
 
-Version (ver1.0):
-
-Release date: 2023/07/14
-
+      Version (ver1.0):
+      Release date: 2023/07/14
 
 # 1. Basic instructions
 
@@ -37,13 +35,13 @@ This software uses R (ver4.1.1) and Batch shell operating environment.
 
 # 2. Main functions
 
-### - 1. TPMI Chip Check: Calculate the number of gene chips corresponding to the patient list input by the user.
+      - 1. TPMI Chip Check: Calculate the number of gene chips corresponding to the patient list input by the user.
 
-### - 2. GWAS : Execute the GWAS analysis process.
+      - 2. GWAS : Execute the GWAS analysis process.
 
-### - 3. GWAS + PRS : Execute the GWAS + PRS analysis process.
+      - 3. GWAS + PRS : Execute the GWAS + PRS analysis process.
 
-### - 4. PGS Catalog : Execute and confirm the PGS Catalog PRS model.
+      - 4. PGS Catalog : Execute and confirm the PGS Catalog PRS model.
 
 # 3. Additional files
 
